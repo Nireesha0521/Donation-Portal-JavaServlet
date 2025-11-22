@@ -112,6 +112,19 @@ Each action returns a styled HTML response with quotes.
 
 ---
 
+## Screenshots
+
+## 🏠 Home Page
+![Home Page](https://raw.githubusercontent.com/yourusername/repo/main/Home.png)
+## 💝 Donation Form
+![Donation Form](https://raw.githubusercontent.com/yourusername/repo/main/Donate.png)
+## 🎉 Donation Success
+![Receive Success](https://raw.githubusercontent.com/yourusername/repo/main/DonationSucces.png)
+## 📦 Available Donations
+![Available Donations](https://raw.githubusercontent.com/yourusername/repo/main/Receive.png)
+## 🎉 Receive Success
+![Receive Success](https://raw.githubusercontent.com/yourusername/repo/main/ReceiveSucces.png)
+
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
