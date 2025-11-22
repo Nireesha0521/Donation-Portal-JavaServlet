@@ -40,7 +40,7 @@ public class Receive extends HttpServlet {
                 out.println("</tr>");
 			}
 			out.println("</table>");
-			out.println("<a href = './Home.html'>Back to Home</a>");
+			out.println("<a href = './index.html'>Back to Home</a>");
 			out.println("</div>"); 
 			out.println("</body>");
 			out.println("</html>");

@@ -36,7 +36,7 @@ public class ReceiveStatus extends HttpServlet {
 				out.println("<h1>Oops! ❌</h1>");
 				out.println("<p>Something went wrong. Try again.</p>");
 			}
-			out.println("<br><a href='./Home.html'>Back to Home</a>");
+			out.println("<br><a href='./index.html'>Back to Home</a>");
 			out.println("</div></body></html>");
 		}
 		catch(Exception e) {
