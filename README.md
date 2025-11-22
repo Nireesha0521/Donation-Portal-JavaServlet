@@ -115,15 +115,15 @@ Each action returns a styled HTML response with quotes.
 ## Screenshots
 
 ## 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/yourusername/repo/main/Home.png)
+![Home Page](https://github.com/Nireesha0521/Donation-Portal-JavaServlet/blob/main/Home.png)
 ## 💝 Donation Form
-![Donation Form](https://raw.githubusercontent.com/yourusername/repo/main/Donate.png)
+![Donation Form](https://github.com/Nireesha0521/Donation-Portal-JavaServlet/blob/main/Donate.png)
 ## 🎉 Donation Success
-![Receive Success](https://raw.githubusercontent.com/yourusername/repo/main/DonationSucces.png)
+![Receive Success](https://github.com/Nireesha0521/Donation-Portal-JavaServlet/blob/main/DonateSucces.png)
 ## 📦 Available Donations
-![Available Donations](https://raw.githubusercontent.com/yourusername/repo/main/Receive.png)
+![Available Donations](https://github.com/Nireesha0521/Donation-Portal-JavaServlet/blob/main/Receive.png)
 ## 🎉 Receive Success
-![Receive Success](https://raw.githubusercontent.com/yourusername/repo/main/ReceiveSucces.png)
+![Receive Success](https://github.com/Nireesha0521/Donation-Portal-JavaServlet/blob/main/ReceiveSucces.png)
 
 ## 🎯 Learning Outcomes
 
